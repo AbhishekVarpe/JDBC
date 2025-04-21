@@ -17,7 +17,7 @@ public class tableCreate {
 		stmt.execute(queryString);
 		System.out.println(" query fire");
 		System.out.println("");
-
-	}
+		System.out.println("");
+}
 
 }
