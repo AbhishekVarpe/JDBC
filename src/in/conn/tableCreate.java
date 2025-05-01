@@ -18,6 +18,8 @@ public class tableCreate {
 		System.out.println(" query fire");
 		System.out.println("");
 		System.out.println("");
+		System.out.println("");
+		
 }
 
 }
